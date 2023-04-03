@@ -1,0 +1,9 @@
+# Requirements for MealMates
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta~=2.4.2
+
+# Graphics and data visualization
+# tkinter is already preinstalled with Python
